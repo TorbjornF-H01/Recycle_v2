@@ -99,3 +99,11 @@ button.accept-policy {
     display: block;
     margin-right: auto;
 }
+.image-3 {
+    width: 400px; /* Set the desired width */
+    height: 400px; /* Set the desired height */
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+}
+
