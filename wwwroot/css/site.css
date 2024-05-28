@@ -56,11 +56,11 @@ a {
 }
 
 .border-top {
-    border-top: 1px solid #C8E6C9; /* Light green for borders */
+    border-top: 2px solid #C8E6C9; /* Light green for borders */
 }
 
 .border-bottom {
-    border-bottom: 1px solid #C8E6C9; /* Light green for borders */
+    border-bottom: 2px solid #C8E6C9; /* Light green for borders */
 }
 
 .box-shadow {
