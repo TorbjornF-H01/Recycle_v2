@@ -40,12 +40,12 @@ a {
 }
 
     a:hover {
-        color: #388E3C; /* Darker green on hover */
+    color: #388E3C; /* Darker green on hover */
     }
 
 .btn-primary {
     color: #fff;
-    background-color: #388E3C; /* Darker green for primary buttons */
+    background-color: midnightblue; /* Darker green for primary buttons */
     border-color: #2E7D32; /* Slightly darker green for borders */
 }
 
@@ -98,3 +98,4 @@ button.accept-policy {
     height: 400px; /* Set the desired height */
     display: block;
     margin-right: auto;
+}
