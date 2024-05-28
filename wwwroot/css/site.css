@@ -93,4 +93,8 @@ button.accept-policy {
     margin-left: auto;
     margin-right: auto;
 }
-
+.image-2 {
+    width: 400px; /* Set the desired width */
+    height: 400px; /* Set the desired height */
+    display: block;
+    margin-right: auto;
