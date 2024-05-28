@@ -1,0 +1,96 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* Gradient background for the body */
+body {
+    background-color: seagreen;
+    color: #fff; /* Ensure text is readable against the gradient */
+    font-family: Arial, sans-serif; /* Optional: set a default font */
+}
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+    color: #2E7D32; /* Dark green for navbar brand */
+}
+
+a {
+    color: #4CAF50; /* Eco-friendly green color */
+}
+
+    a:hover {
+        color: #388E3C; /* Darker green on hover */
+    }
+
+.btn-primary {
+    color: #fff;
+    background-color: #388E3C; /* Darker green for primary buttons */
+    border-color: #2E7D32; /* Slightly darker green for borders */
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #388E3C; /* Matching green for active pill links */
+    border-color: #2E7D32; /* Matching border color for active pill links */
+}
+
+.border-top {
+    border-top: 1px solid #C8E6C9; /* Light green for borders */
+}
+
+.border-bottom {
+    border-bottom: 1px solid #C8E6C9; /* Light green for borders */
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 128, 0, .2); /* Slight green tint in box shadows */
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+    background-color: #66BB6A; /* Green background for accept policy button */
+    color: #fff;
+    border: none;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+    background-color: #2E7D32; /* Dark green footer background */
+    color: #fff;
+}
+
+/* Resize the image */
+.image-1 {
+    width: 400px; /* Set the desired width */
+    height: 400px; /* Set the desired height */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
