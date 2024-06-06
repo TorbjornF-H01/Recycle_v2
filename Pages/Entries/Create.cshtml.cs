@@ -25,7 +25,7 @@ namespace Recycle.Pages.Entries
                 errorMessage = "All fields are required.";
                 return;
             }
-
+            //SQL connection
             try
             {
                 string connectionString = "Data Source=LAPTOP-0P51T4VM\\SQLEXPRESS;Initial Catalog=Recycle;Integrated Security=True;TrustServerCertificate=True";
